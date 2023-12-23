@@ -1,1 +1,1 @@
-# cvgpt-ranker
+# resumegpt-rater
